@@ -1,0 +1,17 @@
+body {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    background-color: rgb(7, 7, 7);
+}
+
+h1, h2, h3 {
+    border: 1px solid whitesmoke;        /* Orange border to resemble fire */
+    padding: 3px;                   /* Space inside the box */
+    background-color: black;         /* Background for contrast */
+    text-align: center;              /* Center the header text */
+  }
+  
+img {
+    display: block;
+    margin: 0 auto; 
+}
